@@ -4,7 +4,7 @@
 
     <groupId>com.mjako.sample</groupId>
     <artifactId>release-via-mvn</artifactId>
-    <version>1.0</version>
+    <version>1.0-SNAPSHOT</version>
 
     <scm>
         <developerConnection>scm:git:https://github.com/mjako78/sample-maven-release.git</developerConnection>
