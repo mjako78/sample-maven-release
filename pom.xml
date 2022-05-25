@@ -84,9 +84,9 @@
                                     <mainClass>com.mjako.sample.App</mainClass>
                                 </manifest>
                             </archive>
-                            <descriptionRefs>
+                            <descriptorRefs>
                                 <descriptorRef>jar-with-dependencies</descriptorRef>
-                            </descriptionRefs>
+                            </descriptorRefs>
                         </configuration>
                     </execution>
                 </executions>
