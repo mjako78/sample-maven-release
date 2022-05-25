@@ -4,12 +4,12 @@
 
     <groupId>com.mjako.sample</groupId>
     <artifactId>release-via-mvn</artifactId>
-    <version>1.1-SNAPSHOT</version>
+    <version>1.1</version>
     <packaging>jar</packaging>
 
     <scm>
         <developerConnection>scm:git:git@github.com:mjako78/sample-maven-release.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>release-via-mvn-1.1</tag>
     </scm>
 
     <properties>
