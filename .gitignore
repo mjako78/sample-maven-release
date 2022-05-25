@@ -1,2 +1,5 @@
 /.idea/
 /sample-maven-release.iml
+/target/
+/release.properties
+/*.jar
